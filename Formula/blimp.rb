@@ -1,13 +1,13 @@
 class Blimp < Formula
   desc "Modern Swift CLI for iOS/macOS app deployment to TestFlight/App Store"
   homepage "https://github.com/platacard/blimp"
-  version "0.8.2"
+  version "0.9.0"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/platacard/blimp/releases/download/0.8.2/blimp-0.8.2-macos-arm64.tar.gz"
-      sha256 "1f97bf4500f63123bf309e93d93e276685e2459b8ac937ff38710c631b2fc711"
+      url "https://github.com/platacard/blimp/releases/download/0.9.0/blimp-0.9.0-macos-arm64.tar.gz"
+      sha256 "818033f7b10736f37be74b345639f39c48a4bec444e830b40e48766729b750ce"
     end
   end
 
